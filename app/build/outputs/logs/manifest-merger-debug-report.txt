@@ -1,0 +1,116 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/xiake/AndroidStudioProjects/CameraDemo/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/xiake/AndroidStudioProjects/CameraDemo/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/xiake/AndroidStudioProjects/CameraDemo/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/xiake/AndroidStudioProjects/CameraDemo/app/src/main/AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/xiake/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/ef0944e777a676833fc42e964aaadbf9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/xiake/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/707b50b9d6220c2467a99964ffa3ec83/AndroidManifest.xml:2:1-11:12
+MERGED from [rebus:permission-utils:2.0.5] /home/xiake/.gradle/caches/transforms-1/files-1.1/permission-utils-2.0.5.aar/f15f1d4aeb1fdd24e84a71c49ef7ae6d/AndroidManifest.xml:25:1-36:12
+MERGED from [com.android.support:support-v13:27.0.2] /home/xiake/.gradle/caches/transforms-1/files-1.1/support-v13-27.0.2.aar/da3dd3899cafc2811f9b9b0ce6bb694c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] /home/xiake/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/fcde0bc322c123ca83649d1a7954c8cf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /home/xiake/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/801b707507b563a8c990a8d57c509d53/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/xiake/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/bc95516b1ed419d084440639d1889e2e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/xiake/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/50d60e9967830697a31973cf54d47c17/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/xiake/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/f10a4440f0af0d0be584b12e40788122/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/xiake/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/76b0f4457ba73bd844a8e0a75419bccf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/xiake/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/5029c739adb9c06a00084a72fa5ba096/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /home/xiake/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/4d0589c636975562f0a2bc8fe79fa2f4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/xiake/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/0ffe1c9dd34f40ea180251ddda6ebd12/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/xiake/AndroidStudioProjects/CameraDemo/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/xiake/AndroidStudioProjects/CameraDemo/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/xiake/AndroidStudioProjects/CameraDemo/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /home/xiake/AndroidStudioProjects/CameraDemo/app/src/main/AndroidManifest.xml:3:5-31
+		INJECTED from /home/xiake/AndroidStudioProjects/CameraDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/xiake/AndroidStudioProjects/CameraDemo/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/xiake/AndroidStudioProjects/CameraDemo/app/src/main/AndroidManifest.xml
+		ADDED from /home/xiake/AndroidStudioProjects/CameraDemo/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /home/xiake/AndroidStudioProjects/CameraDemo/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/xiake/AndroidStudioProjects/CameraDemo/app/src/main/AndroidManifest.xml
+		ADDED from /home/xiake/AndroidStudioProjects/CameraDemo/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /home/xiake/AndroidStudioProjects/CameraDemo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/xiake/AndroidStudioProjects/CameraDemo/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /home/xiake/AndroidStudioProjects/CameraDemo/app/src/main/AndroidManifest.xml:4:5-81
+	android:name
+		ADDED from /home/xiake/AndroidStudioProjects/CameraDemo/app/src/main/AndroidManifest.xml:4:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/xiake/AndroidStudioProjects/CameraDemo/app/src/main/AndroidManifest.xml:5:5-97
+	android:name
+		ADDED from /home/xiake/AndroidStudioProjects/CameraDemo/app/src/main/AndroidManifest.xml:5:22-78
+application
+ADDED from /home/xiake/AndroidStudioProjects/CameraDemo/app/src/main/AndroidManifest.xml:6:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/xiake/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/707b50b9d6220c2467a99964ffa3ec83/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/xiake/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/707b50b9d6220c2467a99964ffa3ec83/AndroidManifest.xml:9:5-20
+MERGED from [rebus:permission-utils:2.0.5] /home/xiake/.gradle/caches/transforms-1/files-1.1/permission-utils-2.0.5.aar/f15f1d4aeb1fdd24e84a71c49ef7ae6d/AndroidManifest.xml:34:5-53
+MERGED from [rebus:permission-utils:2.0.5] /home/xiake/.gradle/caches/transforms-1/files-1.1/permission-utils-2.0.5.aar/f15f1d4aeb1fdd24e84a71c49ef7ae6d/AndroidManifest.xml:34:5-53
+	android:supportsRtl
+		ADDED from /home/xiake/AndroidStudioProjects/CameraDemo/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /home/xiake/AndroidStudioProjects/CameraDemo/app/src/main/AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from /home/xiake/AndroidStudioProjects/CameraDemo/app/src/main/AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from /home/xiake/AndroidStudioProjects/CameraDemo/app/src/main/AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from /home/xiake/AndroidStudioProjects/CameraDemo/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /home/xiake/AndroidStudioProjects/CameraDemo/app/src/main/AndroidManifest.xml:12:9-40
+activity#com.luoye.camera.MainActivity
+ADDED from /home/xiake/AndroidStudioProjects/CameraDemo/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from /home/xiake/AndroidStudioProjects/CameraDemo/app/src/main/AndroidManifest.xml:13:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/xiake/AndroidStudioProjects/CameraDemo/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /home/xiake/AndroidStudioProjects/CameraDemo/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /home/xiake/AndroidStudioProjects/CameraDemo/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/xiake/AndroidStudioProjects/CameraDemo/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /home/xiake/AndroidStudioProjects/CameraDemo/app/src/main/AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from /home/xiake/AndroidStudioProjects/CameraDemo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/xiake/AndroidStudioProjects/CameraDemo/app/src/main/AndroidManifest.xml
+INJECTED from /home/xiake/AndroidStudioProjects/CameraDemo/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/xiake/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/ef0944e777a676833fc42e964aaadbf9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/xiake/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/ef0944e777a676833fc42e964aaadbf9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/xiake/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/707b50b9d6220c2467a99964ffa3ec83/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/xiake/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/707b50b9d6220c2467a99964ffa3ec83/AndroidManifest.xml:5:5-7:41
+MERGED from [rebus:permission-utils:2.0.5] /home/xiake/.gradle/caches/transforms-1/files-1.1/permission-utils-2.0.5.aar/f15f1d4aeb1fdd24e84a71c49ef7ae6d/AndroidManifest.xml:30:5-32:41
+MERGED from [rebus:permission-utils:2.0.5] /home/xiake/.gradle/caches/transforms-1/files-1.1/permission-utils-2.0.5.aar/f15f1d4aeb1fdd24e84a71c49ef7ae6d/AndroidManifest.xml:30:5-32:41
+MERGED from [com.android.support:support-v13:27.0.2] /home/xiake/.gradle/caches/transforms-1/files-1.1/support-v13-27.0.2.aar/da3dd3899cafc2811f9b9b0ce6bb694c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.0.2] /home/xiake/.gradle/caches/transforms-1/files-1.1/support-v13-27.0.2.aar/da3dd3899cafc2811f9b9b0ce6bb694c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /home/xiake/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/fcde0bc322c123ca83649d1a7954c8cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /home/xiake/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/fcde0bc322c123ca83649d1a7954c8cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/xiake/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/801b707507b563a8c990a8d57c509d53/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/xiake/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/801b707507b563a8c990a8d57c509d53/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/xiake/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/bc95516b1ed419d084440639d1889e2e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/xiake/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/bc95516b1ed419d084440639d1889e2e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/xiake/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/50d60e9967830697a31973cf54d47c17/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/xiake/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/50d60e9967830697a31973cf54d47c17/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/xiake/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/f10a4440f0af0d0be584b12e40788122/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/xiake/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/f10a4440f0af0d0be584b12e40788122/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/xiake/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/76b0f4457ba73bd844a8e0a75419bccf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/xiake/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/76b0f4457ba73bd844a8e0a75419bccf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/xiake/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/5029c739adb9c06a00084a72fa5ba096/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/xiake/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/5029c739adb9c06a00084a72fa5ba096/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/xiake/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/4d0589c636975562f0a2bc8fe79fa2f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/xiake/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/4d0589c636975562f0a2bc8fe79fa2f4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/xiake/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/0ffe1c9dd34f40ea180251ddda6ebd12/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/xiake/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/0ffe1c9dd34f40ea180251ddda6ebd12/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/xiake/AndroidStudioProjects/CameraDemo/app/src/main/AndroidManifest.xml
+INJECTED from /home/xiake/AndroidStudioProjects/CameraDemo/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/xiake/AndroidStudioProjects/CameraDemo/app/src/main/AndroidManifest.xml
+		ADDED from /home/xiake/AndroidStudioProjects/CameraDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/xiake/AndroidStudioProjects/CameraDemo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/xiake/AndroidStudioProjects/CameraDemo/app/src/main/AndroidManifest.xml
+		ADDED from /home/xiake/AndroidStudioProjects/CameraDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/xiake/AndroidStudioProjects/CameraDemo/app/src/main/AndroidManifest.xml

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="rebus:permission-utils-2.0.5">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/permission-utils-2.0.5.aar/f15f1d4aeb1fdd24e84a71c49ef7ae6d/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/permission-utils-2.0.5.aar/f15f1d4aeb1fdd24e84a71c49ef7ae6d/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/rebus/permission-utils/2.0.5/b3bef583e594b307b063d40d5e19ff9c2ab1ce17/permission-utils-2.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
